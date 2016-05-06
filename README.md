@@ -14,15 +14,6 @@ Examples
 
 ./phatcat.py --paths
 
-
-       _           _            _   
- _ __ | |__   __ _| |_ ___ __ _| |_ 
-| '_ \| '_ \ / _` | __/ __/ _` | __|
-| |_) | | | | (_| | || (_| (_| | |_ 
-| .__/|_| |_|\__,_|\__\___\__,_|\__|
-|_| 
-      	       don't purr, roarrrrr!	                                
-	
 Hashcat Binary             : /root/apps/cudahashcat/cudaHashcat-2.01/./cudaHashcat64.bin
 Default Rules Directory    : /root/apps/cudahashcat/cudaHashcat-2.01/rules/
 Default Output Directory   : /root/Desktop/
